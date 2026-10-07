@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.ttrakss.arcade",
+        "sha256_cert_fingerprints": ["45:2D:17:7A:23:8E:98:1C:EB:39:C9:09:61:54:A7:5D:AB:04:77:C9:28:C5:D3:27:29:93:93:E4:50:D1:3A:AA"]
+      }
+    }]
